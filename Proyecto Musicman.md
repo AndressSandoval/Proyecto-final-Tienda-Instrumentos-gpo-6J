@@ -1,7 +1,0 @@
-Crear la habilidad agente global “.agents” con un SKILL.md las carpetas scripts,ejemplos, resources 
-El usuario crea skill de diseño, skill de codigo, skill de scraping para su automatización prerrequisitos:flutter instalado
-flutterbase cli instalado o guiar al usuario para realizar la instalación.verificar la instalación de herramientas desde terminal establecer la la conectividad con console firebase usando firebase login. 
-proyecto creado en console firebase usando base de datos con firestore, utilizar la app de android o flutter desde console firebase, realizar pruebas de verificación de herramientas para su funcionalidad de ser necesario guiar al usuario para realizar las configuraciones, para preparar el entorno de trabajo. por ejemplo pubspec.yaml ide utilizado: vs code, ide antigravity lenguaje: dart, framework: flutter, console firestore,
-el proyecto consiste en crear una app movil para una tienda de instrumentos con el framework flutter, creando la carpeta de trabajo principal “proyectomusicman” 
-por lo pronto se trabajara con un crud para productos (crear, leer, actualizar y borrar) creación de pantallas ui, inicio, paginas de navegacion para el crud productos
-el proyecto totalmente funcional. genera las carpetas y archivos .dart, proporcionando el codigo correspondiente, no http://skill.md se te olvide que estamos trabajando en flutter para realizar el proyecto tiendainstrumentos usando “,agents” sigue una secuencia logica para su realizacion.
